@@ -1,8 +1,22 @@
-- 👋 Hi, I’m Software Engineer with approx 3 years of exp.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java Stack, React
-- 💞️ I’m looking to collaborate on ...
-- 📫 sannal123.iimt@gmail.com
+# 👋 Hi, I'm Sannal Yadav  
+
+💻 **Software Engineer** with ~3 years of experience in designing, developing, and deploying scalable applications.  
+🔹 Strong in **Java Stack**, **Spring Boot**, **SQL**, and **React**.  
+
+## 🚀 Skills & Technologies
+- **Backend:** Java, Spring Boot, SQL  
+- **Frontend:** React.js, HTML, CSS, JavaScript  
+- **Tools & Platforms:** Docker, Git, GitHub, Postman, IntelliJ IDEA  
+- **Other:** REST API design, Microservices, Agile Development  
+
+## 📌 Current Focus
+- Enhancing expertise in **Java + Spring Boot**  
+- Building portfolio projects integrating **Docker & cloud deployment**  
+
+## 📫 Contact Me
+- Email: [sannal123.iimt@gmail.com](mailto:sannal123.iimt@gmail.com)  
+- GitHub: [github.com/sannal123](https://github.com/sannal123)  
+
 
 <!---
 sannal123/sannal123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
